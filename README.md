@@ -2,6 +2,6 @@
 
 # Praktikum Pemrograman Web 
 
-https://amal.inyonghost.com/
-https://amal.inyonghost.com/api/mahasiswa
-https://amal.inyonghost.com/mahasiswa
+1. https://amal.inyonghost.com/
+2. https://amal.inyonghost.com/api/mahasiswa
+3. https://amal.inyonghost.com/mahasiswa
